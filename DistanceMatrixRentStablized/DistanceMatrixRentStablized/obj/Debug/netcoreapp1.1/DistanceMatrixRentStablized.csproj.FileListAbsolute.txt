@@ -1,0 +1,6 @@
+c:\users\paul ness\documents\visual studio 2017\Projects\DistanceMatrixRentStablized\DistanceMatrixRentStablized\bin\Debug\netcoreapp1.1\DistanceMatrixRentStablized.deps.json
+c:\users\paul ness\documents\visual studio 2017\Projects\DistanceMatrixRentStablized\DistanceMatrixRentStablized\bin\Debug\netcoreapp1.1\DistanceMatrixRentStablized.runtimeconfig.json
+c:\users\paul ness\documents\visual studio 2017\Projects\DistanceMatrixRentStablized\DistanceMatrixRentStablized\bin\Debug\netcoreapp1.1\DistanceMatrixRentStablized.runtimeconfig.dev.json
+c:\users\paul ness\documents\visual studio 2017\Projects\DistanceMatrixRentStablized\DistanceMatrixRentStablized\bin\Debug\netcoreapp1.1\DistanceMatrixRentStablized.dll
+c:\users\paul ness\documents\visual studio 2017\Projects\DistanceMatrixRentStablized\DistanceMatrixRentStablized\obj\Debug\netcoreapp1.1\DistanceMatrixRentStablized.csprojResolveAssemblyReference.cache
+c:\users\paul ness\documents\visual studio 2017\Projects\DistanceMatrixRentStablized\DistanceMatrixRentStablized\obj\Debug\netcoreapp1.1\DistanceMatrixRentStablized.AssemblyInfo.cs

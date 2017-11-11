@@ -1,0 +1,6 @@
+c:\users\paul ness\documents\visual studio 2012\Projects\GmailExtract\GmailExtract\bin\Debug\GmailExtract.exe.config
+c:\users\paul ness\documents\visual studio 2012\Projects\GmailExtract\GmailExtract\bin\Debug\GmailExtract.exe
+c:\users\paul ness\documents\visual studio 2012\Projects\GmailExtract\GmailExtract\bin\Debug\GmailExtract.pdb
+c:\users\paul ness\documents\visual studio 2012\Projects\GmailExtract\GmailExtract\obj\Debug\GmailExtract.csprojResolveAssemblyReference.cache
+c:\users\paul ness\documents\visual studio 2012\Projects\GmailExtract\GmailExtract\obj\Debug\GmailExtract.exe
+c:\users\paul ness\documents\visual studio 2012\Projects\GmailExtract\GmailExtract\obj\Debug\GmailExtract.pdb

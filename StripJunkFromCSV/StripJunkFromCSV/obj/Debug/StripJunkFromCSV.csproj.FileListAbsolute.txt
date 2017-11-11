@@ -1,0 +1,8 @@
+C:\HMI\StripJunkFromCSV\StripJunkFromCSV\bin\Debug\StripJunkFromCSV.exe.config
+C:\HMI\StripJunkFromCSV\StripJunkFromCSV\bin\Debug\StripJunkFromCSV.exe
+C:\HMI\StripJunkFromCSV\StripJunkFromCSV\bin\Debug\StripJunkFromCSV.pdb
+C:\HMI\StripJunkFromCSV\StripJunkFromCSV\bin\Debug\CsvHelper.dll
+C:\HMI\StripJunkFromCSV\StripJunkFromCSV\bin\Debug\CsvHelper.xml
+C:\HMI\StripJunkFromCSV\StripJunkFromCSV\obj\Debug\StripJunkFromCSV.csprojResolveAssemblyReference.cache
+C:\HMI\StripJunkFromCSV\StripJunkFromCSV\obj\Debug\StripJunkFromCSV.exe
+C:\HMI\StripJunkFromCSV\StripJunkFromCSV\obj\Debug\StripJunkFromCSV.pdb

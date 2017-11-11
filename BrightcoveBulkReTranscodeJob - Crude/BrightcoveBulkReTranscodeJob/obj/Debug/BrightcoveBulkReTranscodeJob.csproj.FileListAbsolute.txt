@@ -1,0 +1,6 @@
+C:\HMI\BrightcoveBulkReTranscodeJob\BrightcoveBulkReTranscodeJob\obj\Debug\BrightcoveBulkReTranscodeJob.csprojResolveAssemblyReference.cache
+C:\HMI\BrightcoveBulkReTranscodeJob\BrightcoveBulkReTranscodeJob\bin\Debug\BrightcoveBulkReTranscodeJob.exe.config
+C:\HMI\BrightcoveBulkReTranscodeJob\BrightcoveBulkReTranscodeJob\bin\Debug\BrightcoveBulkReTranscodeJob.exe
+C:\HMI\BrightcoveBulkReTranscodeJob\BrightcoveBulkReTranscodeJob\bin\Debug\BrightcoveBulkReTranscodeJob.pdb
+C:\HMI\BrightcoveBulkReTranscodeJob\BrightcoveBulkReTranscodeJob\obj\Debug\BrightcoveBulkReTranscodeJob.exe
+C:\HMI\BrightcoveBulkReTranscodeJob\BrightcoveBulkReTranscodeJob\obj\Debug\BrightcoveBulkReTranscodeJob.pdb

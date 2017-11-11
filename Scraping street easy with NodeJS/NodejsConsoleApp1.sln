@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26403.7
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "NodejsConsoleApp1", "NodejsConsoleApp1\NodejsConsoleApp1.njsproj", "{C3FE1FA7-1712-4A69-9426-8AA183761802}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C3FE1FA7-1712-4A69-9426-8AA183761802}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3FE1FA7-1712-4A69-9426-8AA183761802}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3FE1FA7-1712-4A69-9426-8AA183761802}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3FE1FA7-1712-4A69-9426-8AA183761802}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

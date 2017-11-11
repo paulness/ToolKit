@@ -1,0 +1,9 @@
+{
+  "name": "algorithm-practice",
+  "version": "0.0.0",
+  "description": "AlgorithmPractice",
+  "main": "app.js",
+  "author": {
+    "name": "Paul Ness"
+  }
+}

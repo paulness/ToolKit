@@ -1,0 +1,9 @@
+{
+  "name": "algorithms",
+  "version": "0.0.0",
+  "description": "Algorithms",
+  "main": "app.js",
+  "author": {
+    "name": "Paul Ness"
+  }
+}

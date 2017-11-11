@@ -1,0 +1,14 @@
+{
+  "name": "nodejs-console-app1",
+  "version": "0.0.0",
+  "description": "NodejsConsoleApp1",
+  "main": "app.js",
+  "author": {
+    "name": "Paul Ness"
+  },
+  "dependencies": {
+    "google-scraper": "^1.1.2",
+    "nightmare": "^2.10.0",
+    "phantomjs": "^2.1.7"
+  }
+}

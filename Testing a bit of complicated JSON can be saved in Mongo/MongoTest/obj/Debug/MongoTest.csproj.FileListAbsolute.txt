@@ -1,0 +1,1 @@
+c:\users\paul ness\documents\visual studio 2012\Projects\MongoTest\MongoTest\bin\Debug\MongoTest.exe.config

@@ -1,0 +1,9 @@
+{
+  "name": "autocomplete-static-file-generator",
+  "version": "0.0.0",
+  "description": "AutocompleteStaticFileGenerator",
+  "main": "app.js",
+  "author": {
+    "name": "Paul Ness"
+  }
+}
